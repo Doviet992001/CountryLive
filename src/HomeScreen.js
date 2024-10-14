@@ -100,7 +100,7 @@ const HomeScreen = ({navigation}) => {
                           ? 'text-white font-Regular'
                           : 'text-gray-600 font-Regular'
                       }>
-                      {item.name}
+                      {item.name} 1233
                     </Text>
                   </TouchableOpacity>
                 );
